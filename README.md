@@ -7,11 +7,11 @@
 
 - 选择要导出的目录，分享它
 
-<img src="share.png" style="max-width: 50%;">
+<img src="share.png" width=500>
 
 - 获取分享id，并把id赋值到`download.php`里的`$shareId`
 
-<img src="id.png" style="max-width: 50%;">
+<img src="id.png" width=500>
 
 - 执行命令 `php download.php`
 
